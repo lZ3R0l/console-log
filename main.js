@@ -1,9 +1,9 @@
-name = "Singh";
-age = 25;
-favecolor = "black";
+let name = "Singh";
+let age = 25;
+let favecolor = "black";
 
-num1 = 5;
-num2 = 10;
+let num1 = 5;
+let num2 = 10;
 
 console.log('Hello, World!');
 
